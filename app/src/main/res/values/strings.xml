@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppAmbiente</string>
+    <string-array name="periodicos">
+        <item>Listin diario</item>
+        <item>Diario libre</item>
+        <item>Nacional</item>
+        <item>Hoy</item>
+        <item>El dìa</item>
+    </string-array>
+</resources>
